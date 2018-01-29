@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'pygments.rb'
+gem 'jekyll-gist'
+gem 'jekyll-paginate'
+gem 'jekyll-watch'
+gem 'redcarpet'

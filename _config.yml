@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Thiago
+tagline:          'code etc'
+description:      "I'm usually too lazy to write"
+url:              http://words.thiago.me
+baseurl:          /
+
+author:
+  name:           'Thiago Pontes'
+  url:            https://twitter.com/thiagopnts
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/thiagopnts
+
+plugins: [jekyll-paginate, jekyll-gist]
