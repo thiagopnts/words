@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raspberry Pi Bare Metal Programming with Rust
-permalink: raspberry-pi-bare-metal-programming-with-rust
+permalink: raspberry-pi-bare-metal-programming-with-rust/
 ---
 
 After reading the excellent [http://intermezzos.github.io/](http://intermezzos.github.io/), I felt excited again to work on my small kernel, but I was decided to focus on the ARM arch, since it’s been awhile since I bought my Raspberry Pi B+, but never spent some time playing with it. So I started to read more about it on osdev wiki and how to get started with bare metal raspberry development. There isn’t a lot of references for this, especially if you’re using Rust. Most of the tutorials/examples uses C or plain assembly for the task, so it would be fun to try to build these things just using Rust.

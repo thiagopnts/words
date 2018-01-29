@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Notes about Rust modules
-permalink: notes-about-rust-modules
+permalink: notes-about-rust-modules/
 ---
 
 I've been playing a lot with Rust in the past months and I always get a little confused when trying to use its module system, mostly because some features are not documented yet and has some peculiarities.
