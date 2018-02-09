@@ -24,4 +24,8 @@ version:          2.1.0
 github:
   repo:           https://github.com/thiagopnts
 
+defaults:
+  - scope:
+      path: ".well-known"
+
 plugins: [jekyll-paginate, jekyll-gist]
